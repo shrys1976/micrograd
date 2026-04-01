@@ -1,1 +1,1 @@
-### Replicating Kartpathy's micrograd 
+### Replicating  Kartpathy's micrograd 
